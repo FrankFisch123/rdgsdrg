@@ -1,0 +1,21 @@
+2021-02-05 17:44:32.569524|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.13.3 (2020-12-16 14:17:05)
+2021-02-05 17:44:32.569628|INFO    |ServerLibPriv |   |SystemInformation: Linux 5.4.0-65-generic #73-Ubuntu SMP Mon Jan 18 17:25:17 UTC 2021 x86_64 Binary: 64bit
+2021-02-05 17:44:32.569666|INFO    |ServerLibPriv |   |Using hardware aes
+2021-02-05 17:44:32.570193|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2021-02-05 17:44:32.570215|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2021-02-05 17:44:32.570397|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2021-02-05 17:44:32.617175|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2021-02-05 17:44:32.617317|INFO    |Accounting    |   |Licensing Information
+2021-02-05 17:44:32.617334|INFO    |Accounting    |   |licensed to       : Anonymous
+2021-02-05 17:44:32.617344|INFO    |Accounting    |   |type              : No License
+2021-02-05 17:44:32.617357|INFO    |Accounting    |   |starting date     : Thu Oct  1 00:00:00 2020
+2021-02-05 17:44:32.617366|INFO    |Accounting    |   |ending date       : Tue Nov  1 00:00:00 2022
+2021-02-05 17:44:32.617374|INFO    |Accounting    |   |max virtualservers: 1
+2021-02-05 17:44:32.617382|INFO    |Accounting    |   |max slots         : 32
+2021-02-05 17:44:33.934346|INFO    |              |   |Puzzle precompute time: 1296
+2021-02-05 17:44:33.934818|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2021-02-05 17:44:33.937854|INFO    |Query         |   |Using a query thread pool size of 2
+2021-02-05 17:44:34.015130|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2021-02-05 17:44:34.015333|INFO    |Query         |   |listening for ssh query on 0.0.0.0:10022, [::]:10022
+2021-02-05 17:44:34.015417|INFO    |Query         |   |listening for http query on 0.0.0.0:10080, [::]:10080
+2021-02-05 17:44:34.015474|INFO    |CIDRManager   |   |updated query_ip_allowlist ips: 127.0.0.1/32, ::1/128, 
